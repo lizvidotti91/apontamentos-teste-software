@@ -41,6 +41,38 @@ Inclui todas as atividades que direcionam e controlam uma organização em rela�
 - **Garantia de qualidade:** adesão a processos adequados, a fim de fornecer confiança de que os níveis apropriados de qualidade serão alcançados;
 - **Controle de qualidade:** é apoiado pela garantia de qualidade do teste. Incluem atividades que apoiam a obtenção de níveis adequados de qualidade.
 
+### Erro X defeito X falha
+- Uma pessoa comete um **erro**;
+- Um erro pode causar um **defeito** no código do software ou produto de trabalho relacionado;
+- A execução de um código defeituoso pode causar uma **falha**.
+- As causas-raiz dos defeitos são as primeiras ações ou condições que constribuíram para a criação dos defeitos.
+
+#### Motivos para ocorrência de erros
+- Pressão do tempo;
+- Falha humana;
+- Participantes do projeto inexperientes ou insuficientemente qualificados;
+- Falta de comunicação;
+- Complexidades no projeto (código, modelagem, arquitetura, problemas, tecnologias);
+- Mal-entedidos sobre interfaces intrasistemas e entre sistemas;
+- Tecnologias novas ou desconhecidas.
+
+#### Motivos para ocorrência de falhas
+- Defeitos no código;
+- Condições ambientais (radiação, campos eletromagnéticos, poluição, que causam problemas nas condições do hardware, afetando o funcionamento do firmware ou execução do software).
+
+## Princípios de teste
+- **O teste mostra a presença de defeitos e não a sua ausência**
+O teste reduz a probabilidade de defeitos permanecerem no software, mas não é garantido que um teste sem defeitos garante que o código ou produto esteja livre de defeitos ou falhas.
+- **Testes exaustivos são impossíveis**
+A análise de risco, as técnicas de teste e as prioridades devem ser usadas para concentrar os esforços de teste.
+- **O teste inicial economiza tempo e dinheiro**
+O teste no início do ciclo de vida de desenvolvimento de software ajuda a reduzir ou eiminar alterações dispendiosas.
+- **Defeitos se agrupam**
+- **Cuidado com o paradoxo do pesticida**
+Para detectar novos defeitos, os testes existentes e os dados de teste podem precisar ser alterados e novos testes precisam ser gravados.
+- **O teste depende do contexto**
+- **Ausência de erros é uma ilusão**
+
 ## Materiais
 - ISO 29119-1
 
