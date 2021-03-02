@@ -62,13 +62,17 @@ Inclui todas as atividades que direcionam e controlam uma organização em rela�
 
 ## Princípios de teste
 - **O teste mostra a presença de defeitos e não a sua ausência**
+
 O teste reduz a probabilidade de defeitos permanecerem no software, mas não é garantido que um teste sem defeitos garante que o código ou produto esteja livre de defeitos ou falhas.
 - **Testes exaustivos são impossíveis**
+
 A análise de risco, as técnicas de teste e as prioridades devem ser usadas para concentrar os esforços de teste.
 - **O teste inicial economiza tempo e dinheiro**
+
 O teste no início do ciclo de vida de desenvolvimento de software ajuda a reduzir ou eiminar alterações dispendiosas.
 - **Defeitos se agrupam**
 - **Cuidado com o paradoxo do pesticida**
+
 Para detectar novos defeitos, os testes existentes e os dados de teste podem precisar ser alterados e novos testes precisam ser gravados.
 - **O teste depende do contexto**
 - **Ausência de erros é uma ilusão**
